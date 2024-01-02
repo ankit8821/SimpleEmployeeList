@@ -1,0 +1,51 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: lightgrey;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .light-red {
+    background-color: lightcoral;
+  }
+  
+  
+  .container {
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .btn {
+    padding: 8px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .btn-save {
+    background-color: green;
+    color: white;
+  }
+  
+  .btn-cancel {
+    background-color: red;
+    color: white;
+  }
+  
